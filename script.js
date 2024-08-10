@@ -109,12 +109,14 @@ function showScore() {
 
 function restartQuiz() {
     document.getElementById('quiz-container').innerHTML = `
-        <h1>JavaScript Quiz</h1>
+        <div class="author-img"><img src="sojon-mia.jpg" alt="Sojon Mia"></div>
+        <h1>Quiz App</h1>
         <div id="question"></div>
         <div id="options"></div>
         <div id="feedback" class="feedback"></div>
         <button id="next-button" onclick="loadNextQuiz()">Next</button>
         <div id="score" class="score"></div>
+        <div class="author-link"><a href="https://forms.gle/PZDia6KyHiLQQDxw5" target="_blank">Contact Me</a></div>
     `;
     fetchQuiz();
 }
