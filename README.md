@@ -1,4 +1,4 @@
-# JavaScript Quiz App
+# Quiz App - Sojon Mia
 
 This is an interactive and dynamic quiz application designed to test users' knowledge of JavaScript. The quiz fetches questions from the Open Trivia Database API, providing a unique and challenging experience each time. The application is built with modern JavaScript and offers a smooth user experience with real-time feedback.
 
