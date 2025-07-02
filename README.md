@@ -20,4 +20,7 @@ This is an interactive and dynamic quiz application designed to test users' know
 ## How to Clone
 
 1. Clone the repository:
-   git clone https://github.com/csesojonmia23/quiz-app-sojon.git
+   git clone https://github.com/sojonmiacse/quiz-app-sojon.git
+
+### Live Demo
+https://sojonmiacse.github.io/quiz-app-sojon/
